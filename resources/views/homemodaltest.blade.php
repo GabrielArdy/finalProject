@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
     <!-- custom CSS -->
-    <link rel="stylesheet" href="./custom-style.css">
+    <link rel="stylesheet" href="{{ asset('custom-style.css') }}">
     <title>Home | Lembaga Kemahasiswaan</title>
 </head>
 
@@ -87,9 +87,9 @@
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
                         <!-- make time posted with text muted -->
-                        <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
@@ -103,9 +103,9 @@
                     <img src="/img/pic2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
-                        <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="fa-regular fa-square-user text-muted"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
@@ -121,7 +121,7 @@
                         <h5 class="card-title fw-bold">Card title</h5>
                         <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
@@ -138,9 +138,9 @@
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
                         <!-- make time posted with text muted -->
-                        <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
@@ -154,9 +154,9 @@
                     <img src="/img/pic2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
-                        <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
@@ -170,9 +170,9 @@
                     <img src="/img/pic3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
-                        <i class="bi bi-calendar-fill text-muted"></i> <small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i> <small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i> <small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-circle-user text-muted"></i> <small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
