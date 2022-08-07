@@ -18,3 +18,10 @@
 .txt {
     display: inline;
 }
+
+/* Carousel mobile */
+@media only screen and (max-width: 768px) {
+    .carousel .carousel-item {
+        height: 300px;
+    }
+}
