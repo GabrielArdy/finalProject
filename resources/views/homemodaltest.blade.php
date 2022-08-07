@@ -105,7 +105,7 @@
                         <h5 class="card-title fw-bold">Card title</h5>
                         <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
-                            <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                            <i class="fa-regular fa-square-user text-muted"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
