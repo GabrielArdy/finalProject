@@ -38,7 +38,7 @@
                 <div class="carousel-caption text-start d-none d-md-block">
                     <h1 class="display-5 fw-bold">First slide label</h1>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                    <!-- make button show more -->
+                    <!-- button show more -->
                     <a href="#" class="btn btn-outline-light">Show more</a>
                 </div>
             </div>
