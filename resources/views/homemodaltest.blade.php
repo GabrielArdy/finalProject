@@ -119,7 +119,7 @@
                     <img src="/img/pic3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
-                        <i class="bi bi-calendar-fill text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
                             <i class="bi bi-person-square text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
