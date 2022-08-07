@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
     <!-- custom CSS -->
     <link rel="stylesheet" href="{{ asset('custom-style.css') }}">
+    <!-- Icons -->
+    <link rel="stylesheet" href="{{ asset('icon/css/all.min.css) }}'">
     <title>Home | Lembaga Kemahasiswaan</title>
 </head>
 
