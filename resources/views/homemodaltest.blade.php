@@ -209,8 +209,8 @@
                         <img src="/img/pic1.jpg" alt="" class="img-fluid" style="max-width:100%; height:auto">
                         <div class="container-fluid">
                             <div class="author-container my-3">
-                                <i class="fa-regular fa-calendar fa-2x text-muted"></i>&nbsp;<p class="txt card-text text-muted ml-lg-2 ml-lg-4">05 August 2022</p>
-                                <i class="fa-regular fa-circle-user fa-2x text-muted"></i>&nbsp;<p class="txt card-text text-muted ml-lg-2 ml-lg-4">Author</p>
+                                <i class="fa-regular fa-calendar fa-lg text-muted"></i>&nbsp;<p class="txt card-text text-muted ml-lg-2 ml-lg-4">05 August 2022</p>
+                                <i class="fa-regular fa-circle-user fa-lg text-muted"></i>&nbsp;<p class="txt card-text text-muted ml-lg-2 ml-lg-4">Author</p>
                             </div>
                         </div>
                         <hr>
