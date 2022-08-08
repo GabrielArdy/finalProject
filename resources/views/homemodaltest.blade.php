@@ -14,16 +14,6 @@
 </head>
 
 <body>
-    <!-- navbar sementara -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-        <div class="container-fluid">
-            <a href="/" class="navbar-brand fw-bold text-white">Lembaga Kemahasiswaan</a>
-            <a class=" d-flex btn btn-primary">
-                Login
-            </a>
-        </div>
-    </nav>
-    <!-- navbar sementara -->
 
     <!-- carousel -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
