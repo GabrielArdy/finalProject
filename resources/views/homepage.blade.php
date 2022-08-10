@@ -73,12 +73,14 @@
 
     <!-- Jumbotron -->
     <div class="container-fluid my-5">
-        <div class="jumbotron jumbotron-fluid text-left">
-            <p class="fs-1 fw-bolder">Pengumuman
-            <button type="button" class="btn btn-primary position-relative start-50">
-             See all <span class="position-absolute top-0 start-100 translate-middle p-2"></span>
-            </button>
+
+        <div class="jumbotron jumbotron-fluid text-center">
+            <p class="fs-1 fw-bolder">Pengumuman</p>
+                <button type="button" class="btn btn-primary position-relative start-50">
+                    See all <span class="position-absolute top-0 start-100 translate-middle p-2"></span>
+                </button>
             </p>
+
             <hr>
         </div>
     </div>
@@ -192,7 +194,16 @@
     <!-- album -->
 
     <!-- Pagination button -->
-    <div class="container">
+
+    <!-- See All button -->
+    <div class="container text-center mb-5">
+        <a href="#" class="btn btn-outline-primary btn-lg px-4">Lihat Semua Pengumuman</a>
+    </div>
+
+    <!-- Pagination button -->
+
+
+    <!-- <div class="container">
         <nav aria-label="Page navigation example">
             <ul class="pagination justify-content-center">
                 <li class="page-item">
