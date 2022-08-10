@@ -73,8 +73,12 @@
 
     <!-- Jumbotron -->
     <div class="container-fluid my-5">
-        <div class="jumbotron jumbotron-fluid text-center">
-            <p class="fs-1 fw-bolder">Pengumuman</p>
+        <div class="jumbotron jumbotron-fluid text-left">
+            <p class="fs-1 fw-bolder">Pengumuman
+            <button type="button" class="btn btn-primary position-relative start-50">
+             See all <span class="position-absolute top-0 start-100 translate-middle p-2"></span>
+            </button>
+            </p>
             <hr>
         </div>
     </div>
@@ -187,13 +191,8 @@
     </div>
     <!-- album -->
 
-    <!--See all-->
-    <button type="button" class="btn btn-primary position-absolute start-50">
-             See all 
-            </button>
-
     <!-- Pagination button -->
-    <!-- <div class="container">
+    <div class="container">
         <nav aria-label="Page navigation example">
             <ul class="pagination justify-content-center">
                 <li class="page-item">
