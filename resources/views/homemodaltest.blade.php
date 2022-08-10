@@ -63,9 +63,14 @@
 
     <!-- Jumbotron -->
     <div class="container my-5">
-        <div class="jumbotron jumbotron-fluid text-center">
-            <p class="fs-1 fw-bolder">Pengumuman</p>
-            <hr>
+        <div class="container-fluid">
+            <div class="d-inline jumbotron jumbotron-fluid">
+                <p class="d-inline fs-1 fw-bolder ">Pengumuman</p>
+                <hr>
+            </div>
+            <div class="text-right">
+                <a href="#" class="d-inline ml-lg-3 btn btn-primary">See All</a>
+            </div>
         </div>
     </div>
     <!-- Jumbotron -->
