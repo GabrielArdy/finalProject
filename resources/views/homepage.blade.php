@@ -193,11 +193,10 @@
 
     <!-- See All button -->
     <div class="container text-center mb-5">
-        <a href="{{ url('#') }}" class="btn btn-outline-primary btn-lg px-4">Lihat Semua Pengumuman</a>
+        <a href="#" class="btn btn-outline-primary btn-lg px-4">Lihat Semua Pengumuman</a>
     </div>
 
     <!-- Pagination button -->
-
     <!-- <div class="container">
         <nav aria-label="Page navigation example">
             <ul class="pagination justify-content-center">
