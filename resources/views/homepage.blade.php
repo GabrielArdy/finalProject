@@ -78,49 +78,104 @@
     <!-- Jumbotron -->
 
     <!-- album -->
-    <div class="container">
+    <div class="container mb-5">
         <div class="row">
-            <div class="col-md-4">
-                <div class="card">
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
                     <img src="/img/pic1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">
-                            <p class="fs-3 fw-bold">Card title</p>
-                        </h5>
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <!-- make time posted with text muted -->
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                        </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button">Selengkapnya</button>
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card">
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
                     <img src="/img/pic2.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">
-                            <p class="fs-3 fw-bold">Card title</p>
-                        </h5>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                        </div>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button">Selengkapnya</button>
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card">
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
                     <img src="/img/pic3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">
-                            <p class="fs-3 fw-bold">Card title</p>
-                        </h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                        </div>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button">Selengkapnya</button>
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
+                    <img src="/img/pic1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <!-- make time posted with text muted -->
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                        </div>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <div class="d-grid gap-2 d-md-block">
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
+                    <img src="/img/pic2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
+                        </div>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <div class="d-grid gap-2 d-md-block">
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 gx-5 gy-5">
+                <div class="card shadow">
+                    <img src="/img/pic3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">Card title</h5>
+                        <i class="fa-regular fa-calendar text-muted"></i> <small class="card-text text-muted">05 August 2022</small>
+                        <div>
+                            <i class="fa-regular fa-circle-user text-muted"></i> <small class="card-text text-muted">Author</small>
+                        </div>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <div class="d-grid gap-2 d-md-block">
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
                         </div>
                     </div>
                 </div>
