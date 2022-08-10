@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <!-- custom CSS -->
     <link rel="stylesheet" href="{{asset( 'custom-style.css' )}}">
+    <!-- Icons -->
+    <link rel="stylesheet" href="{{ asset('icon/css/all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('icon/css/all.css') }}">
     <title>Home | Lembaga Kemahasiswaan</title>
 </head>
 
