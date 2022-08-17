@@ -95,7 +95,7 @@
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -139,14 +139,13 @@
                     <img src="/img/pic1.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title fw-bold">Card title</h5>
-                        <!-- make time posted with text muted -->
                         <i class="fa-regular fa-calendar text-muted"></i>&nbsp;<small class="card-text text-muted">05 August 2022</small>
                         <div>
                             <i class="fa-regular fa-circle-user text-muted flex-d"></i>&nbsp;<small class="card-text text-muted">Author</small>
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -162,7 +161,7 @@
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -178,7 +177,7 @@
                         </div>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <div class="d-grid gap-2 d-md-block">
-                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#modelId">Selengkapnya</button>
+                            <a href="#" class="btn btn-dark" type="submit">Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -189,7 +188,7 @@
 
     <!-- See All button -->
     <div class="container text-center mb-5">
-        <a href="{{ url('#') }}" class="btn btn-outline-primary btn-lg px-4">Lihat Semua Pengumuman</a>
+        <a href="{{ url('#') }}" class="btn btn-outline-dark btn-lg px-4">Lihat Semua Pengumuman</a>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

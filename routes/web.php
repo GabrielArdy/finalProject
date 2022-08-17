@@ -21,3 +21,6 @@ Route::get('/home', function () {
     return view('homemodaltest');
 });
 
+Route::get('/register', function () {
+    return view('register-panitia');
+});
